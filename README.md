@@ -2,7 +2,7 @@
 
 Personnaliser-la-generation-de-texte-en-image !
 
-[**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**]([https://arxiv.org/abs/2112.10752](https://arxiv.org/abs/2208.01618)https://arxiv.org/abs/2208.01618)<br/>
+[** An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion **]([https://arxiv.org/abs/2112.10752](https://arxiv.org/abs/2208.01618)https://arxiv.org/abs/2208.01618)<br/>
 
 # BibTeX
 
